@@ -1,0 +1,6 @@
+### Hey! I'm Renja 👋
+
+
+Coding hours since Arp 5 2023
+
+[![wakatime](https://wakatime.com/badge/user/bcdf1d61-5106-478c-92b1-60cef20bd0df.svg)](https://wakatime.com/@bcdf1d61-5106-478c-92b1-60cef20bd0df)
